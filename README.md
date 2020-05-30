@@ -36,5 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+# I have work that should be done in 3 weeks. I had 2 weeks to do it. I`ve been doing almost nothing for a week.
+## Guess, where am I?
+
 ![Это я и дедлайны](https://avatars.mds.yandex.net/get-zen_doc/1578824/pub_5da9f598bd639600ad17068b_5da9f5bb7cccba00adeac532/scale_1200)
-![planet](s1200.jpg)
