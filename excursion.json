@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Метро Китай город"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.63354897499084,
+          55.75550822119296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.63360261917114,
+            55.75551727727572
+          ],
+          [
+            37.63411223888397,
+            55.75514597615867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "label": "path"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.63411223888397,
+            55.75514295743591
+          ],
+          [
+            37.63520121574401,
+            55.75389922378379
+          ],
+          [
+            37.636783719062805,
+            55.75424940523091
+          ],
+          [
+            37.63570010662079,
+            55.75505843310393
+          ],
+          [
+            37.63546407222748,
+            55.755471996840946
+          ],
+          [
+            37.63507783412933,
+            55.755435772455264
+          ]
+        ]
+      }
+    }
+  ]
+}
