@@ -542,7 +542,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ec0909",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Базель",
