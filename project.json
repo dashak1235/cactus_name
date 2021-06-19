@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Гауда",
+        "information": "(предместье Роттердама): место рождения (1469 г.), жил там в детстве."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.709701538085937,
+          52.01183087951584
+        ]
+      }
+    }
+  ]
+}
