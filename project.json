@@ -37,7 +37,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -93,7 +97,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Коллегия Монтегю, площадь Сен-Мишель, Париж",
-        "information": "Уехал в Париж в 1493, до 1499 там получает высшее образование в Коллегии Монтегю и разочаровывается в учебе, т.к. в коллегии были ужасные условия для студентов."
+        "information": "Уехал в Париж в 1493, до 1499 там получает высшее образование в Коллегии Монтегю и разочаровывается в учебе, т.к. в коллегии были ужасные условия для студентов. Во время второго пребывания в Париже начинает составление сборника греческих и латинских пословиц, который был позже несколько раз издан под названием “Пословицы”."
       },
       "geometry": {
         "type": "Point",
@@ -121,6 +125,358 @@
             3.235902786254883,
             50.176197279451586
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Лондон",
+        "information": "Путешествовал в Лондон вместе с лордом Маунтджоем; в Лондоне познакомился с философом-утопистом Томасом Мором, философом-богословом Джоном Колетом, епископом Джоном Фишером, после много лет с ними дружил и переписывался. Встречается с будущим королем Англии Генрихом VIII. Также читает лекции (богословие) в Оксфордском университете. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12737274169921875,
+          51.50671243040582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Орлеан",
+        "information": "В 1499 Эразм возвращается во Францию, путешествует."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9083595275878906,
+          47.901498458523236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3438858985900874,
+            48.85359388545477
+          ],
+          [
+            -0.12737274169921875,
+            51.506765853364506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1273512840270996,
+            51.506752497630714
+          ],
+          [
+            1.908402442932129,
+            47.901527229271615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Левен",
+        "information": "Путешествие Эразма по Франции"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7730178833007812,
+          50.42317505279245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Роттердам",
+        "information": "Возвращение из путешествия по Франции"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.461994171142578,
+          51.921508489858226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.9083809852600098,
+            47.901498458523236
+          ],
+          [
+            2.7730178833007812,
+            50.42318188826516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.7730178833007812,
+            50.42318188826516
+          ],
+          [
+            4.461972713470459,
+            51.92153495747791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f00a0a",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3438644409179688,
+            48.85359035574604
+          ],
+          [
+            4.461479187011719,
+            51.92161436024331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Болонья",
+        "information": "Путешествие по Италии 1505-1506 гг. (Италия считается родиной гуманизма, поэтому туда Эразма всегда тянуло)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.34286880493164,
+          44.49344412842885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f70808",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.343040466308594,
+            44.49356657962081
+          ],
+          [
+            2.3438644409179688,
+            48.85361153399459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Флоренция",
+        "information": "Путешествие по Италии 1505-1506 гг. (Италия считается родиной гуманизма, поэтому туда Эразма всегда тянуло)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.250686645507812,
+          43.768614600741934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.250686645507812,
+            43.769110452366185
+          ],
+          [
+            11.342697143554688,
+            44.49368903055563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Падуя",
+        "information": "Путешествие по Италии 1505-1506 гг. (Италия считается родиной гуманизма, поэтому туда Эразма всегда тянуло)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.87347412109375,
+          45.407127892214305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.873817443847656,
+            45.407248409439
+          ],
+          [
+            11.250686645507812,
+            43.76898648984548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Туринский университет",
+        "information": "Эразм Роттердамский был принят в Туринском университете (основан в 1404, существует до сих пор), там получил диплом доктора богословия, его приветствовал Папа Римский."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.688965201377869,
+          45.06939873776037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Венеция",
+        "information": "Эразм проводит здесь несколько месяцев в 1508 г. для совместной работы с прославленным издательством Альда Мануция – «Домом Альда» – стали важным событием в истории европейской культуры эпохи Возрождения."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33438491821289,
+          45.43664692675854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.87347412109375,
+            45.4071881508588
+          ],
+          [
+            7.688965201377869,
+            45.069402526379356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ee892b",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.688970565795898,
+            45.069402526379356
+          ],
+          [
+            12.334427833557129,
+            45.43667704033988
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Рим",
+        "information": "Камбрейский епископ пригласил Эразма в Рим для изучения богословия. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.484588623046875,
+          41.89205502378826
         ]
       }
     }
